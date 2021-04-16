@@ -1,4 +1,4 @@
 # Statistics-with-R
-Doing some descriptive and inferential statistics 
+Learning basic R and doing some descriptive and inferential statistics 
 
-Doing hypothesis testing, mixed model effects, visualization(ggplot) etc using R
+The exercises include hypothesis testing, mixed model effects, visualization(ggplot) etc using R
